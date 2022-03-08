@@ -6,7 +6,6 @@ namespace HelloStéphane.BO
     {
         public enum ProfileOptions
         {
-            None,
             Admin,
             Visitor
         }
